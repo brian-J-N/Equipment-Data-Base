@@ -1,0 +1,54 @@
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program4\COMS-276-Program4\COMS-276-Program4\bin\Debug\equipment.accdb
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program4\COMS-276-Program4\COMS-276-Program4\bin\Debug\COMS-276-Program4.exe.config
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program4\COMS-276-Program4\COMS-276-Program4\bin\Debug\COMS-276-Program4.exe.manifest
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program4\COMS-276-Program4\COMS-276-Program4\bin\Debug\COMS-276-Program4.application
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program4\COMS-276-Program4\COMS-276-Program4\bin\Debug\COMS-276-Program4.exe
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program4\COMS-276-Program4\COMS-276-Program4\bin\Debug\COMS-276-Program4.pdb
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program4\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS-276-Program4.csprojAssemblyReference.cache
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program4\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS_276_Program4.frmEquipment.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program4\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS_276_Program4.frmEquipmentDetail.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program4\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS_276_Program4.frmReport.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program4\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS_276_Program4.Properties.Resources.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program4\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS-276-Program4.csproj.GenerateResource.cache
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program4\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS-276-Program4.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program4\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS-276-Program4.TrustInfo.xml
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program4\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS-276-Program4.exe.manifest
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program4\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS-276-Program4.application
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program4\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS-276-Program4.exe
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program4\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS-276-Program4.pdb
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\bin\Debug\equipment.accdb
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\bin\Debug\COMS-276-Program4.exe.config
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\bin\Debug\COMS-276-Program4.exe.manifest
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\bin\Debug\COMS-276-Program4.application
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\bin\Debug\COMS-276-Program4.exe
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\bin\Debug\COMS-276-Program4.pdb
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS-276-Program4.csprojAssemblyReference.cache
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS_276_Program4.frmEquipment.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS_276_Program4.frmEquipmentDetail.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS_276_Program4.frmReport.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS_276_Program4.Properties.Resources.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS-276-Program4.csproj.GenerateResource.cache
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS-276-Program4.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS-276-Program4.TrustInfo.xml
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS-276-Program4.exe.manifest
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS-276-Program4.application
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS-276-Program4.exe
+C:\Users\brian\OneDrive\Desktop\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS-276-Program4.pdb
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\bin\Debug\equipment.accdb
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\bin\Debug\COMS-276-Program4.exe.config
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\bin\Debug\COMS-276-Program4.exe.manifest
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\bin\Debug\COMS-276-Program4.application
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\bin\Debug\COMS-276-Program4.exe
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\bin\Debug\COMS-276-Program4.pdb
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS-276-Program4.csproj.AssemblyReference.cache
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS_276_Program4.frmEquipment.resources
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS_276_Program4.frmEquipmentDetail.resources
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS_276_Program4.frmReport.resources
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS_276_Program4.Properties.Resources.resources
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS-276-Program4.csproj.GenerateResource.cache
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS-276-Program4.csproj.CoreCompileInputs.cache
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS-276-Program4.TrustInfo.xml
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS-276-Program4.exe.manifest
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS-276-Program4.application
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS-276-Program4.exe
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Program-Module5\COMS-276-Program4\COMS-276-Program4\obj\Debug\COMS-276-Program4.pdb
